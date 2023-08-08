@@ -34,6 +34,9 @@ function validate() {
         },
         '61163773': function () {
             //JuanRengifo GAAAAA
+        },
+        'admin': function () {
+            //ADMIN
         }
     }
 
